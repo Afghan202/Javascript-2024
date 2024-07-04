@@ -19,6 +19,7 @@ do {
     score++
 } while (score<=10);
 
+
 let j=1
 do {
     console.log(`j is :${j}`);
