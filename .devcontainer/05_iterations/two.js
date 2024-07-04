@@ -18,3 +18,9 @@ do {
     console.log(`score is:${score}`);
     score++
 } while (score<=10);
+
+let j=1
+do {
+    console.log(`j is :${j}`);
+    j++
+} while (j<=10);
